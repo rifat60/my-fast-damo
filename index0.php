@@ -27,6 +27,7 @@
     <link rel="stylesheet" href="./Untitld-2.css">
 </head>
 <body>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere velit eius illum, delectus asperiores, dolorum dicta officiis porro esse laudantium provident nisi architecto veritatis deleniti, doloribus consequuntur vel! Aliquid, ducimus!</p>
     <div class="banner">
         <!-- header start -->
         <header>
@@ -99,11 +100,7 @@
                       
                      </ul>
                      </li>
-                     <li>
-                        <ul>
-                            <img style="width: 50px; height:50px; border-radius: 50%; " src=" https://i.ibb.co/PzhTqYp/327376622-1106658780028703-2200703866762814-n.jpg" alt="" >
-                        </ul>
-                     </li>
+                  
                  </ul> 
                   
                  
